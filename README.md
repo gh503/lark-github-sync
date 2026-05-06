@@ -30,7 +30,7 @@ npx skills add gh503/lark-github-sync
 In your AI agent terminal or chat (e.g., Opencode), simply trigger:
 
 ```text
-/sync-work
+/lark-github-sync
 ```
 
 Or just say:
