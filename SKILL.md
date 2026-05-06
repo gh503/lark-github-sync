@@ -1,4 +1,10 @@
-# /sync-work Skill
+---
+name: lark-github-sync
+version: 1.0.0
+description: "作为项目“大总管”，主动帮你同步并执行 GitHub Issues 和飞书文档（Lark Docs）中的任务。当用户输入 /lark-github-sync 或表达“帮我同步一下任务”、“看看今天有什么要做的”时触发。"
+---
+
+# lark-github-sync (AI Agent Orchestrator)
 
 ## 目标
 
@@ -6,7 +12,7 @@
 
 ## 触发时机
 
-当用户输入 `/sync-work` 或表达“帮我同步一下任务”、“看看今天有什么要做的”时触发。
+当用户输入 `/lark-github-sync` 或表达“帮我同步一下任务”、“看看今天有什么要做的”时触发。
 
 ## 执行流程 (SOP)
 
